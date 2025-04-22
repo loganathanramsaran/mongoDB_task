@@ -1,0 +1,81 @@
+//QUERIES//
+
+1.Find all the topics and tasks which are thought in the month of October
+
+   => db.topics.find({date:{$gte:"2020-10-01",$lte:"2020-10-31"}})
+
+   => db.tasks.find({dueDate:{$gte:"2020-10-01",$lte:"2020-10-31"}}).toArray()
+				 (or)
+      db.tasks.aggregate([
+  	{$match:{dueDate:{$gte:"2020-10-15",$lte:"2020-10-31"}}},
+  	{$group:{_id:{taskId:"$taskId",taskName:"$taskName",dueDate:"$dueDate"}}},
+  	{$project:{taskId:"$_id.taskId",taskName:"$_id.taskName",dueDate:"$_id.dueDate",_id:false}},
+  	{$sort:{taskId:1}}
+      ])
+
+2.Find all the company drives which appeared between 15 oct-2020 and 31-oct-2020
+
+   => db.company_drives.find({driveDate:{$gte:"2020-10-15",$lte:"2020-10-31"}})
+
+3.Find all the company drives and students who are appeared for the placement.
+  
+   => db.company_drives.aggregate([
+  	{$lookup:{
+    		from:"users",
+		localField:"studentsAppeared",
+		foreignField:"_id",
+		as:"studentsAppeared"
+	}},
+  	{$project:{
+		_id:0,
+		company:1,
+		driveDate:1,
+		studentsAppeared:{studentName:1,email:1}}}
+      ])
+
+4.Find the number of problems solved by the user in codekata
+
+   => db.codekata.find({},{userId:true,problems_solved:true})
+
+5.Find all the mentors with who has the mentee's count more than 5
+   => db.users.aggregate([
+  	{$group:{_id:"$mentorID",menteeCount:{$sum:1}}},
+  	{$match:{menteeCount:{$gt:5}}}
+      ])
+
+6.Find the number of users who are absent and task is not submitted  between 15 oct-2020 and 31-oct-2020
+   => db.attendance.aggregate([
+  {$match:{status:'Absent'}},
+  {$lookup:{
+		from:'topics',
+		localField:'topicID',
+		foreignField:'_id',
+		as:'topicDetails'
+	}},
+  {$unwind:"$topicDetails"},
+  {$match:{'topicDetails.date':{$gte:'2020-10-15', $lte:'2020-10-31'}}},
+  {$group:{
+		_id:'$userID', 
+		noOfDaysAbsent:{$sum:1}, 
+		absentDetails:{
+			$push:{
+				date:'$topicDetails.date',
+				topic:'$topicDetails.topic'
+			}
+		}
+	}},
+  {$lookup:{
+		from:'users',
+		localField:'_id',
+		foreignField:'_id',
+		as:'userDetails'
+	}},
+  {$unwind:'$userDetails'},
+  {$project: {
+  studentName: "$userDetails.studentName",
+  totalAbsent: "$noOfDaysAbsent",
+  details: "$absentDetails",
+  _id: 0
+	}}
+])
+

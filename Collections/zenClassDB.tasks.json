@@ -1,0 +1,1100 @@
+[{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27b6"
+  },
+  "taskId": "TSK001",
+  "topicID": "TPC001",
+  "assignedTo": "UID001",
+  "taskName": "HTML Tags",
+  "dueDate": "2020-10-12",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27b7"
+  },
+  "taskId": "TSK001",
+  "topicID": "TPC001",
+  "assignedTo": "UID002",
+  "taskName": "HTML Tags",
+  "dueDate": "2020-10-12",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27b8"
+  },
+  "taskId": "TSK001",
+  "topicID": "TPC001",
+  "assignedTo": "UID003",
+  "taskName": "HTML Tags",
+  "dueDate": "2020-10-12",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27b9"
+  },
+  "taskId": "TSK001",
+  "topicID": "TPC001",
+  "assignedTo": "UID004",
+  "taskName": "HTML Tags",
+  "dueDate": "2020-10-12",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27ba"
+  },
+  "taskId": "TSK001",
+  "topicID": "TPC001",
+  "assignedTo": "UID005",
+  "taskName": "HTML Tags",
+  "dueDate": "2020-10-12",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27bb"
+  },
+  "taskId": "TSK001",
+  "topicID": "TPC001",
+  "assignedTo": "UID006",
+  "taskName": "HTML Tags",
+  "dueDate": "2020-10-12",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27bc"
+  },
+  "taskId": "TSK001",
+  "topicID": "TPC001",
+  "assignedTo": "UID007",
+  "taskName": "HTML Tags",
+  "dueDate": "2020-10-12",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27bd"
+  },
+  "taskId": "TSK001",
+  "topicID": "TPC001",
+  "assignedTo": "UID008",
+  "taskName": "HTML Tags",
+  "dueDate": "2020-10-12",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27be"
+  },
+  "taskId": "TSK001",
+  "topicID": "TPC001",
+  "assignedTo": "UID009",
+  "taskName": "HTML Tags",
+  "dueDate": "2020-10-12",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27bf"
+  },
+  "taskId": "TSK001",
+  "topicID": "TPC001",
+  "assignedTo": "UID010",
+  "taskName": "HTML Tags",
+  "dueDate": "2020-10-12",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27c0"
+  },
+  "taskId": "TSK002",
+  "topicID": "TPC002",
+  "assignedTo": "UID001",
+  "taskName": "CSS Layouts",
+  "dueDate": "2020-10-13",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27c1"
+  },
+  "taskId": "TSK002",
+  "topicID": "TPC002",
+  "assignedTo": "UID002",
+  "taskName": "CSS Layouts",
+  "dueDate": "2020-10-13",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27c2"
+  },
+  "taskId": "TSK002",
+  "topicID": "TPC002",
+  "assignedTo": "UID003",
+  "taskName": "CSS Layouts",
+  "dueDate": "2020-10-13",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27c3"
+  },
+  "taskId": "TSK002",
+  "topicID": "TPC002",
+  "assignedTo": "UID004",
+  "taskName": "CSS Layouts",
+  "dueDate": "2020-10-13",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27c4"
+  },
+  "taskId": "TSK002",
+  "topicID": "TPC002",
+  "assignedTo": "UID005",
+  "taskName": "CSS Layouts",
+  "dueDate": "2020-10-13",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27c5"
+  },
+  "taskId": "TSK002",
+  "topicID": "TPC002",
+  "assignedTo": "UID006",
+  "taskName": "CSS Layouts",
+  "dueDate": "2020-10-13",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27c6"
+  },
+  "taskId": "TSK002",
+  "topicID": "TPC002",
+  "assignedTo": "UID007",
+  "taskName": "CSS Layouts",
+  "dueDate": "2020-10-13",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27c7"
+  },
+  "taskId": "TSK002",
+  "topicID": "TPC002",
+  "assignedTo": "UID008",
+  "taskName": "CSS Layouts",
+  "dueDate": "2020-10-13",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27c8"
+  },
+  "taskId": "TSK002",
+  "topicID": "TPC002",
+  "assignedTo": "UID009",
+  "taskName": "CSS Layouts",
+  "dueDate": "2020-10-13",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27c9"
+  },
+  "taskId": "TSK002",
+  "topicID": "TPC002",
+  "assignedTo": "UID010",
+  "taskName": "CSS Layouts",
+  "dueDate": "2020-10-13",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27ca"
+  },
+  "taskId": "TSK003",
+  "topicID": "TPC003",
+  "assignedTo": "UID001",
+  "taskName": "Landing Page",
+  "dueDate": "2020-10-19",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27cb"
+  },
+  "taskId": "TSK003",
+  "topicID": "TPC003",
+  "assignedTo": "UID002",
+  "taskName": "Landing Page",
+  "dueDate": "2020-10-19",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27cc"
+  },
+  "taskId": "TSK003",
+  "topicID": "TPC003",
+  "assignedTo": "UID003",
+  "taskName": "Landing Page",
+  "dueDate": "2020-10-19",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27cd"
+  },
+  "taskId": "TSK003",
+  "topicID": "TPC003",
+  "assignedTo": "UID004",
+  "taskName": "Landing Page",
+  "dueDate": "2020-10-19",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27ce"
+  },
+  "taskId": "TSK003",
+  "topicID": "TPC003",
+  "assignedTo": "UID005",
+  "taskName": "Landing Page",
+  "dueDate": "2020-10-19",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27cf"
+  },
+  "taskId": "TSK003",
+  "topicID": "TPC003",
+  "assignedTo": "UID006",
+  "taskName": "Landing Page",
+  "dueDate": "2020-10-19",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27d0"
+  },
+  "taskId": "TSK003",
+  "topicID": "TPC003",
+  "assignedTo": "UID007",
+  "taskName": "Landing Page",
+  "dueDate": "2020-10-19",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27d1"
+  },
+  "taskId": "TSK003",
+  "topicID": "TPC003",
+  "assignedTo": "UID008",
+  "taskName": "Landing Page",
+  "dueDate": "2020-10-19",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27d2"
+  },
+  "taskId": "TSK003",
+  "topicID": "TPC003",
+  "assignedTo": "UID009",
+  "taskName": "Landing Page",
+  "dueDate": "2020-10-19",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27d3"
+  },
+  "taskId": "TSK003",
+  "topicID": "TPC003",
+  "assignedTo": "UID010",
+  "taskName": "Landing Page",
+  "dueDate": "2020-10-19",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27d4"
+  },
+  "taskId": "TSK004",
+  "topicID": "TPC004",
+  "assignedTo": "UID001",
+  "taskName": "JS Functions",
+  "dueDate": "2020-10-20",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27d5"
+  },
+  "taskId": "TSK004",
+  "topicID": "TPC004",
+  "assignedTo": "UID002",
+  "taskName": "JS Functions",
+  "dueDate": "2020-10-20",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27d6"
+  },
+  "taskId": "TSK004",
+  "topicID": "TPC004",
+  "assignedTo": "UID003",
+  "taskName": "JS Functions",
+  "dueDate": "2020-10-20",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27d7"
+  },
+  "taskId": "TSK004",
+  "topicID": "TPC004",
+  "assignedTo": "UID004",
+  "taskName": "JS Functions",
+  "dueDate": "2020-10-20",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27d8"
+  },
+  "taskId": "TSK004",
+  "topicID": "TPC004",
+  "assignedTo": "UID005",
+  "taskName": "JS Functions",
+  "dueDate": "2020-10-20",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27d9"
+  },
+  "taskId": "TSK004",
+  "topicID": "TPC004",
+  "assignedTo": "UID006",
+  "taskName": "JS Functions",
+  "dueDate": "2020-10-20",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27da"
+  },
+  "taskId": "TSK004",
+  "topicID": "TPC004",
+  "assignedTo": "UID007",
+  "taskName": "JS Functions",
+  "dueDate": "2020-10-20",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27db"
+  },
+  "taskId": "TSK004",
+  "topicID": "TPC004",
+  "assignedTo": "UID008",
+  "taskName": "JS Functions",
+  "dueDate": "2020-10-20",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27dc"
+  },
+  "taskId": "TSK004",
+  "topicID": "TPC004",
+  "assignedTo": "UID009",
+  "taskName": "JS Functions",
+  "dueDate": "2020-10-20",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27dd"
+  },
+  "taskId": "TSK004",
+  "topicID": "TPC004",
+  "assignedTo": "UID010",
+  "taskName": "JS Functions",
+  "dueDate": "2020-10-20",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27de"
+  },
+  "taskId": "TSK005",
+  "topicID": "TPC005",
+  "assignedTo": "UID001",
+  "taskName": "Repo Creation",
+  "dueDate": "2020-10-26",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27df"
+  },
+  "taskId": "TSK005",
+  "topicID": "TPC005",
+  "assignedTo": "UID002",
+  "taskName": "Repo Creation",
+  "dueDate": "2020-10-26",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27e0"
+  },
+  "taskId": "TSK005",
+  "topicID": "TPC005",
+  "assignedTo": "UID003",
+  "taskName": "Repo Creation",
+  "dueDate": "2020-10-26",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27e1"
+  },
+  "taskId": "TSK005",
+  "topicID": "TPC005",
+  "assignedTo": "UID004",
+  "taskName": "Repo Creation",
+  "dueDate": "2020-10-26",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27e2"
+  },
+  "taskId": "TSK005",
+  "topicID": "TPC005",
+  "assignedTo": "UID005",
+  "taskName": "Repo Creation",
+  "dueDate": "2020-10-26",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27e3"
+  },
+  "taskId": "TSK005",
+  "topicID": "TPC005",
+  "assignedTo": "UID006",
+  "taskName": "Repo Creation",
+  "dueDate": "2020-10-26",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27e4"
+  },
+  "taskId": "TSK005",
+  "topicID": "TPC005",
+  "assignedTo": "UID007",
+  "taskName": "Repo Creation",
+  "dueDate": "2020-10-26",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27e5"
+  },
+  "taskId": "TSK005",
+  "topicID": "TPC005",
+  "assignedTo": "UID008",
+  "taskName": "Repo Creation",
+  "dueDate": "2020-10-26",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27e6"
+  },
+  "taskId": "TSK005",
+  "topicID": "TPC005",
+  "assignedTo": "UID009",
+  "taskName": "Repo Creation",
+  "dueDate": "2020-10-26",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27e7"
+  },
+  "taskId": "TSK005",
+  "topicID": "TPC005",
+  "assignedTo": "UID010",
+  "taskName": "Repo Creation",
+  "dueDate": "2020-10-26",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27e8"
+  },
+  "taskId": "TSK006",
+  "topicID": "TPC006",
+  "assignedTo": "UID001",
+  "taskName": "React App",
+  "dueDate": "2020-10-27",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27e9"
+  },
+  "taskId": "TSK006",
+  "topicID": "TPC006",
+  "assignedTo": "UID002",
+  "taskName": "React App",
+  "dueDate": "2020-10-27",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27ea"
+  },
+  "taskId": "TSK006",
+  "topicID": "TPC006",
+  "assignedTo": "UID003",
+  "taskName": "React App",
+  "dueDate": "2020-10-27",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27eb"
+  },
+  "taskId": "TSK006",
+  "topicID": "TPC006",
+  "assignedTo": "UID004",
+  "taskName": "React App",
+  "dueDate": "2020-10-27",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27ec"
+  },
+  "taskId": "TSK006",
+  "topicID": "TPC006",
+  "assignedTo": "UID005",
+  "taskName": "React App",
+  "dueDate": "2020-10-27",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27ed"
+  },
+  "taskId": "TSK006",
+  "topicID": "TPC006",
+  "assignedTo": "UID006",
+  "taskName": "React App",
+  "dueDate": "2020-10-27",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27ee"
+  },
+  "taskId": "TSK006",
+  "topicID": "TPC006",
+  "assignedTo": "UID007",
+  "taskName": "React App",
+  "dueDate": "2020-10-27",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27ef"
+  },
+  "taskId": "TSK006",
+  "topicID": "TPC006",
+  "assignedTo": "UID008",
+  "taskName": "React App",
+  "dueDate": "2020-10-27",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27f0"
+  },
+  "taskId": "TSK006",
+  "topicID": "TPC006",
+  "assignedTo": "UID009",
+  "taskName": "React App",
+  "dueDate": "2020-10-27",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27f1"
+  },
+  "taskId": "TSK006",
+  "topicID": "TPC006",
+  "assignedTo": "UID010",
+  "taskName": "React App",
+  "dueDate": "2020-10-27",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27f2"
+  },
+  "taskId": "TSK007",
+  "topicID": "TPC007",
+  "assignedTo": "UID001",
+  "taskName": "Redux App",
+  "dueDate": "2020-11-02",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27f3"
+  },
+  "taskId": "TSK007",
+  "topicID": "TPC007",
+  "assignedTo": "UID002",
+  "taskName": "Redux App",
+  "dueDate": "2020-11-02",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27f4"
+  },
+  "taskId": "TSK007",
+  "topicID": "TPC007",
+  "assignedTo": "UID003",
+  "taskName": "Redux App",
+  "dueDate": "2020-11-02",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27f5"
+  },
+  "taskId": "TSK007",
+  "topicID": "TPC007",
+  "assignedTo": "UID004",
+  "taskName": "Redux App",
+  "dueDate": "2020-11-02",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27f6"
+  },
+  "taskId": "TSK007",
+  "topicID": "TPC007",
+  "assignedTo": "UID005",
+  "taskName": "Redux App",
+  "dueDate": "2020-11-02",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27f7"
+  },
+  "taskId": "TSK007",
+  "topicID": "TPC007",
+  "assignedTo": "UID006",
+  "taskName": "Redux App",
+  "dueDate": "2020-11-02",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27f8"
+  },
+  "taskId": "TSK007",
+  "topicID": "TPC007",
+  "assignedTo": "UID007",
+  "taskName": "Redux App",
+  "dueDate": "2020-11-02",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27f9"
+  },
+  "taskId": "TSK007",
+  "topicID": "TPC007",
+  "assignedTo": "UID008",
+  "taskName": "Redux App",
+  "dueDate": "2020-11-02",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27fa"
+  },
+  "taskId": "TSK007",
+  "topicID": "TPC007",
+  "assignedTo": "UID009",
+  "taskName": "Redux App",
+  "dueDate": "2020-11-02",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27fb"
+  },
+  "taskId": "TSK007",
+  "topicID": "TPC007",
+  "assignedTo": "UID010",
+  "taskName": "Redux App",
+  "dueDate": "2020-11-02",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27fc"
+  },
+  "taskId": "TSK008",
+  "topicID": "TPC008",
+  "assignedTo": "UID001",
+  "taskName": "SQL DataBase",
+  "dueDate": "2020-11-03",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27fd"
+  },
+  "taskId": "TSK008",
+  "topicID": "TPC008",
+  "assignedTo": "UID002",
+  "taskName": "SQL DataBase",
+  "dueDate": "2020-11-03",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27fe"
+  },
+  "taskId": "TSK008",
+  "topicID": "TPC008",
+  "assignedTo": "UID003",
+  "taskName": "SQL DataBase",
+  "dueDate": "2020-11-03",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d27ff"
+  },
+  "taskId": "TSK008",
+  "topicID": "TPC008",
+  "assignedTo": "UID004",
+  "taskName": "SQL DataBase",
+  "dueDate": "2020-11-03",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d2800"
+  },
+  "taskId": "TSK008",
+  "topicID": "TPC008",
+  "assignedTo": "UID005",
+  "taskName": "SQL DataBase",
+  "dueDate": "2020-11-03",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d2801"
+  },
+  "taskId": "TSK008",
+  "topicID": "TPC008",
+  "assignedTo": "UID006",
+  "taskName": "SQL DataBase",
+  "dueDate": "2020-11-03",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d2802"
+  },
+  "taskId": "TSK008",
+  "topicID": "TPC008",
+  "assignedTo": "UID007",
+  "taskName": "SQL DataBase",
+  "dueDate": "2020-11-03",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d2803"
+  },
+  "taskId": "TSK008",
+  "topicID": "TPC008",
+  "assignedTo": "UID008",
+  "taskName": "SQL DataBase",
+  "dueDate": "2020-11-03",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d2804"
+  },
+  "taskId": "TSK008",
+  "topicID": "TPC008",
+  "assignedTo": "UID009",
+  "taskName": "SQL DataBase",
+  "dueDate": "2020-11-03",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d2805"
+  },
+  "taskId": "TSK008",
+  "topicID": "TPC008",
+  "assignedTo": "UID010",
+  "taskName": "SQL DataBase",
+  "dueDate": "2020-11-03",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d2806"
+  },
+  "taskId": "TSK009",
+  "topicID": "TPC009",
+  "assignedTo": "UID001",
+  "taskName": "MongoDB",
+  "dueDate": "2020-11-09",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d2807"
+  },
+  "taskId": "TSK009",
+  "topicID": "TPC009",
+  "assignedTo": "UID002",
+  "taskName": "MongoDB",
+  "dueDate": "2020-11-09",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d2808"
+  },
+  "taskId": "TSK009",
+  "topicID": "TPC009",
+  "assignedTo": "UID003",
+  "taskName": "MongoDB",
+  "dueDate": "2020-11-09",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d2809"
+  },
+  "taskId": "TSK009",
+  "topicID": "TPC009",
+  "assignedTo": "UID004",
+  "taskName": "MongoDB",
+  "dueDate": "2020-11-09",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d280a"
+  },
+  "taskId": "TSK009",
+  "topicID": "TPC009",
+  "assignedTo": "UID005",
+  "taskName": "MongoDB",
+  "dueDate": "2020-11-09",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d280b"
+  },
+  "taskId": "TSK009",
+  "topicID": "TPC009",
+  "assignedTo": "UID006",
+  "taskName": "MongoDB",
+  "dueDate": "2020-11-09",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d280c"
+  },
+  "taskId": "TSK009",
+  "topicID": "TPC009",
+  "assignedTo": "UID007",
+  "taskName": "MongoDB",
+  "dueDate": "2020-11-09",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d280d"
+  },
+  "taskId": "TSK009",
+  "topicID": "TPC009",
+  "assignedTo": "UID008",
+  "taskName": "MongoDB",
+  "dueDate": "2020-11-09",
+  "status": "compPendingleted"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d280e"
+  },
+  "taskId": "TSK009",
+  "topicID": "TPC009",
+  "assignedTo": "UID009",
+  "taskName": "MongoDB",
+  "dueDate": "2020-11-09",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d280f"
+  },
+  "taskId": "TSK009",
+  "topicID": "TPC009",
+  "assignedTo": "UID010",
+  "taskName": "MongoDB",
+  "dueDate": "2020-11-09",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d2810"
+  },
+  "taskId": "TSK010",
+  "topicID": "TPC010",
+  "assignedTo": "UID001",
+  "taskName": "Node App",
+  "dueDate": "2020-11-10",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d2811"
+  },
+  "taskId": "TSK010",
+  "topicID": "TPC010",
+  "assignedTo": "UID002",
+  "taskName": "Node App",
+  "dueDate": "2020-11-10",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d2812"
+  },
+  "taskId": "TSK010",
+  "topicID": "TPC010",
+  "assignedTo": "UID003",
+  "taskName": "Node App",
+  "dueDate": "2020-11-10",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d2813"
+  },
+  "taskId": "TSK010",
+  "topicID": "TPC010",
+  "assignedTo": "UID004",
+  "taskName": "Node App",
+  "dueDate": "2020-11-10",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d2814"
+  },
+  "taskId": "TSK010",
+  "topicID": "TPC010",
+  "assignedTo": "UID005",
+  "taskName": "Node App",
+  "dueDate": "2020-11-10",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d2815"
+  },
+  "taskId": "TSK010",
+  "topicID": "TPC010",
+  "assignedTo": "UID006",
+  "taskName": "Node App",
+  "dueDate": "2020-11-10",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d2816"
+  },
+  "taskId": "TSK010",
+  "topicID": "TPC010",
+  "assignedTo": "UID007",
+  "taskName": "Node App",
+  "dueDate": "2020-11-10",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d2817"
+  },
+  "taskId": "TSK010",
+  "topicID": "TPC010",
+  "assignedTo": "UID008",
+  "taskName": "Node App",
+  "dueDate": "2020-11-10",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d2818"
+  },
+  "taskId": "TSK010",
+  "topicID": "TPC010",
+  "assignedTo": "UID009",
+  "taskName": "Node App",
+  "dueDate": "2020-11-10",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6804d7573c8b1f665e5d2819"
+  },
+  "taskId": "TSK010",
+  "topicID": "TPC010",
+  "assignedTo": "UID010",
+  "taskName": "Node App",
+  "dueDate": "2020-11-10",
+  "status": "completed"
+}]
