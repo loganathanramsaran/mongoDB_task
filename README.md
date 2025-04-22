@@ -4,11 +4,11 @@ This repository contains sample MongoDB collections for a Zen Class program. Use
 
 ## 📂 Collections (in `/mongoDB_task` folder)
 
-- `users.json`
-- `mentors.json`
-- `topics.json`
-- `tasks.json`
-- `attendance.json`
-- `codekata.json`
-- `company_drives.json`
+- `zenClassDB.users.json`
+- `zenClassDB.mentors.json`
+- `zenClassDB.topics.json`
+- `zenClassDB.tasks.json`
+- `zenClassDB.attendance.json`
+- `zenClassDB.codekata.json`
+- `zenClassDB.company_drives.json`
 
