@@ -12,9 +12,3 @@ This repository contains sample MongoDB collections for a Zen Class program. Use
 - `codekata.json`
 - `company_drives.json`
 
-## 🚀 How to Import into MongoDB
-
-Use the following command to import any collection:
-
-```bash
-mongoimport --db zenClass --collection users --file ./data/users.json --jsonArray
